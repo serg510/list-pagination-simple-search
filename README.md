@@ -1,5 +1,9 @@
 
+# Treehouse FSJS Techdegree - Project Warm Up
 
+## Simple Search
+
+### Intro
 
 The search is one of the most common and fundamental features of just about any website or app.  The List Filter and Pagination project has a Search feature "Extra Credit" option.  Here’s some lightweight practice using a simple form to search for matches in a table of names.  You’ll use JavaScript to highlight matches as values are typed into the search field and when the `Submit` button is clicked.
 

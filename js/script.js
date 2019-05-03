@@ -1,4 +1,11 @@
+/**
+ * Treehouse FSJS Techdegree - Project Warm Up
+ * Simple Search - JS
+ * Developed by: Robert Manolis - Student Success Specialist
+ *               Milwaukie, OR - 2019
+ */
 
+"use strict";
 
 
 /* Variables to reference the `input` and search `button` elements */
